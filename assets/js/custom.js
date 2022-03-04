@@ -120,9 +120,9 @@
   /* Init Text Rotator */
   $('.description .sub').typed({
     strings: [
-      'A Front-end Developer',
+      'A Business Analyst',
       'A Community Leader',
-      'An Aspiring Creative'
+      'A Web Consultant'
     ],
     typeSpeed: 1,
     backSpeed: 1,
